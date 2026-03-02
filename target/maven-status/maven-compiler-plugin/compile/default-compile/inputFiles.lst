@@ -1,0 +1,15 @@
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\repository\ProductRepository.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\config\RestTemplateConfig.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\controller\ProductController.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\model\PurchaseOrder.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\service\ProductService.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\service\PurchaseOrderService.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\ProcurementAgentApplication.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\dto\AIPredictionRequest.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\controller\ProcurementController.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\dto\AIPredictionResponse.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\service\DecisionEngineService.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\model\Product.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\controller\PurchaseOrderController.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\repository\PurchaseOrderRepository.java
+C:\Users\khuma\Downloads\procurement-agent-phase4\procurement-agent\src\main\java\com\inventory\agent\service\AIIntegrationService.java

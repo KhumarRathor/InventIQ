@@ -1,0 +1,15 @@
+com\inventory\agent\controller\ProcurementController.class
+com\inventory\agent\dto\AIPredictionResponse.class
+com\inventory\agent\repository\ProductRepository.class
+com\inventory\agent\config\RestTemplateConfig.class
+com\inventory\agent\model\PurchaseOrder.class
+com\inventory\agent\service\PurchaseOrderService.class
+com\inventory\agent\ProcurementAgentApplication.class
+com\inventory\agent\service\DecisionEngineService.class
+com\inventory\agent\service\AIIntegrationService.class
+com\inventory\agent\controller\PurchaseOrderController.class
+com\inventory\agent\repository\PurchaseOrderRepository.class
+com\inventory\agent\controller\ProductController.class
+com\inventory\agent\model\Product.class
+com\inventory\agent\dto\AIPredictionRequest.class
+com\inventory\agent\service\ProductService.class
